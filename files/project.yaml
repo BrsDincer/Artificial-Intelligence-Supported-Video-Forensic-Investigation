@@ -1,0 +1,10 @@
+%YAML 1.1
+---
+
+project:
+    defination: "Misinformation Detection Project"
+    topic: "Agent - AI - AGI - Knowledge Retrieval"
+    focus: "Detection"
+
+apikey:
+    OPENAI_API_KEY: "<TYPE_API_KEY_HERE>"
